@@ -17,3 +17,7 @@ Start reading at the big "START" label and follow the arrows around the diagram.
 ![Object Encryption](object-encryption.png)
 
 This diagram shows how notes, notebooks and tags are encrypted. It also explains how these objects could be shared among users.
+
+![Password Reset](password-reset.png)
+
+How will resetting passwords work? This diagram explains.
